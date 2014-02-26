@@ -30,6 +30,8 @@ Then Andrew went into a demonstration of PLUTO data. He has a great set of 20+ m
 
 After feeling out the direction of the crowd and pressing for questions, we determined some very basic tutorials would be good. Jeff Ferzoco took everyone through getting the building footprint data from the NYC Data Mine, downloading it and bringing it into three formats. First, the sip files were zipped and brought into CArtoDB and styled for one of the qualities (can’t remember which one). Then the same data was brought into Illustrator using Mappublisher and styled using Themes. Lastly, the sip was dragged and dropped into QGIS and layered with other data. 
 
+We started a discussion about getting data and how to make it work, which led to a demo of data put into openRefine directly from wikipedia, processed, formatted and exported into CartoDB. This was apparently very helpful to most people and reinforced how incredibly useful openRefine is. 
+
 This was at the 45 minute point, or so. We opened up the room for a bit and discussed what people wanted to work on.There were some questions directly related to what we had done previously, which we answered. Everyone was powering through experimentation on their laptops and axing questions along the way. 
 
 We discussed the next meeting (Geocoding) and that we’d be looking for a new location for next time. We gauged what people wanted to talk about after that, and determined that it was pretty open, though some seeds of new ideas came out (SQL in CartoDB, Leaflet) and we discussed how we wanted to have a space on the internet. 
