@@ -13,7 +13,7 @@ Things we talked about:
 * [Overpass turbo][overpass-turbo]
 * CartoDB, PLUTO maps
 * OpenRefine
-* MapIllustrator
+* MAPublisher for Adobe Illustrator
 
 [osm-nyc-buildings]: https://github.com/osmlab/nycbuildings/
 [overpass-turbo]: http://overpass-turbo.eu/
