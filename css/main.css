@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
+a         { color: #00a;   text-decoration: none;}
 a:hover   { color: #000; }
 a:visited { color: #a0a; }
 
@@ -61,6 +61,10 @@ a:visited { color: #a0a; }
   width: 42em;
   margin: 3em auto 2em;
   line-height: 1.5em;
+}
+
+.site h2 {
+  font-size: 160%;
 }
 
 .header a {
@@ -126,6 +130,27 @@ a:visited { color: #a0a; }
 /* Posts
 /*
 /*****************************************************************************/
+
+/* headings - not overiding body style fonts for some reason... */
+
+.post h3 {
+  font-size: 140%;
+  margin: 15px 0 5px 0;
+}
+
+.post h4 {
+  font-size: 120%;
+  margin: 10px 0 0 0;  
+}
+
+.post h5 {
+  font-size: 110%;
+  margin: 0 0 5px 0;  
+}
+
+.post a {
+  text-decoration: none;
+}
 
 /* standard */
 .post pre {
