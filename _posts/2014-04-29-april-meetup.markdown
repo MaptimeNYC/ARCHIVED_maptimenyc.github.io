@@ -4,9 +4,9 @@ title: "April Meetup"
 date: 2014-04-29 13:00:00
 categories: maptime nyc events
 ---
-## It's All About You (Hack Night) at MapZen
+## It's All About You (Hack Night) at Mapzen
 
-We had a terrific turn out for last night's Maptime-NYC: 18 mappers came out to either hack on their personal projects, help out others or just learn a new thing or two about mapping and geo. The space and atmosphere provided by [MapZen](http://mapzen.com/) was absolutely terrific. Special thanks to Dan for prepping the room for us and to Harish and Randy for hanging out with us to assist other mappers.
+We had a terrific turn out for last night's Maptime-NYC: 18 mappers came out to either hack on their personal projects, help out others or just learn a new thing or two about mapping and geo. The space and atmosphere provided by [Mapzen](http://mapzen.com/) was absolutely terrific. Special thanks to Dan for prepping the room for us and to Harish and Randy for hanging out with us to assist other mappers.
 
 There was a wide range of topics that people came to learn about or hack on including:
 
