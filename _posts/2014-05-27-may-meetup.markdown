@@ -9,7 +9,7 @@ Last night we had a smaller group turn up for another hack night at Maptime NYC.
 
 ## Some Photos!
 
-![](../images/2014-05-27/photo3.jpg)
-![](../images/2014-05-27/photo4.jpg)
-![](../images/2014-05-27/photo6.jpg)
-![](../images/2014-05-27/photo8.jpg)
+![](/images/2014-05-27/photo3.jpg)
+![](/images/2014-05-27/photo4.jpg)
+![](/images/2014-05-27/photo6.jpg)
+![](/images/2014-05-27/photo8.jpg)
