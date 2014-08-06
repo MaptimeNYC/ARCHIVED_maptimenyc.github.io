@@ -1,6 +1,6 @@
 ---
 layout: resources
-title: Maptime NYC: Resources!
+title: "Maptime NYC: Resources!"
 ---
 
 The awesome thing about Maptime is there's like, a million amazing resources for learning about mapping and maps. The awesome thing about working on mapping stuff in New York is that there's also a ton of data resources for maps. Here's a list of both things!
