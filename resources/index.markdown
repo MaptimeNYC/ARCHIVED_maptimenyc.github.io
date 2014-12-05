@@ -15,7 +15,7 @@ The awesome thing about Maptime is there's like, a million amazing resources for
 
 - [The one MTA subway map shapefile that, pretty much, everyone ends up finding via Google](http://spatialityblog.com/2010/07/08/mta-gis-data-update/). This was made by Steve Romulewski. All hail Steve. 
 
-- [BetaNYC's Github](https://github.com/betanyc): BetaNYC is the local Code for America brigade and hosts useful datasets that might not be easily or immediately found on the city's open data portal. They also have a [spreadsheet of data resources](http://bit.ly/nyc-data-resources) that you might enjoy. You can learn more about getting involved with their meetups and at their [Meetup page](http://www.meetup.com/betanyc/) or check out their [mailing lists and discussion groups](http://betanyc.us/#groups). 
+- [BetaNYC's Github](https://github.com/betanyc): BetaNYC is an open data, open government, and civic technology community group. They are a part of Code for America's brigade program and hosts useful datasets that might not be easily or immediately found on the city's open data portal. They also have a [spreadsheet of data resources](http://bit.ly/nyc-data-resources) that you might enjoy. You can learn more about getting involved with their meetups and at their [Meetup page](http://www.meetup.com/betanyc/) or check out their [mailing lists and discussion groups](http://betanyc.us/#groups). 
 
 - [MTA Developer Resources](http://web.mta.info/developers/): Pretty much what it sounds like. There's a variety of [real-time and static data feeds](http://web.mta.info/developers/developer-data-terms.html#data) including GTFS Schedule Data, bus and subway times, fare data, subway entry and exit spatial data, and turnstile usage data. 
 
